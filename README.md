@@ -1,1 +1,2 @@
 # Alzeimer-disease-prediction
+"Unlocking the Secrets of Alzheimer's: A Machine Learning Approach to Diagnosis" - This project focuses on utilizing the power of machine learning to classify Alzheimer's patients into either Dementia or Non-Dementia group. The project aims to compare the accuracy and proficiency of popular machine learning algorithms like SVM and Logistic Regression. The research concludes with a high accuracy rate of diagnosis using these algorithms.
